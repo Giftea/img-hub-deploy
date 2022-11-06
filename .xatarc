@@ -1,0 +1,7 @@
+{
+  "databaseURL": "https://Gift-Uhiene-s-workspace-9ouc0n.us-east-1.xata.sh/db/image-hub",
+  "codegen": {
+    "output": "src/xata.js",
+    "moduleType": "esm"
+  }
+}
